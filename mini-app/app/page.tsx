@@ -1,4 +1,4 @@
-import { Quiz } from "@/components/quiz";
+import Quiz from "@/components/quiz";
 import { generateMetadata } from "@/lib/farcaster-embed";
 
 export { generateMetadata };
